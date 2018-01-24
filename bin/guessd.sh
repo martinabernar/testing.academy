@@ -1,5 +1,6 @@
-#!/bin/`:wq
-bash
+#!/bin/bash
+
+
 PLAY=y
 echo "myslim si cislo od 1-20"
 while [[ $PLAY =~ ^(y|YES|yes|Y|A|a|ano|ANO)$ ]]; do 

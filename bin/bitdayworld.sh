@@ -33,5 +33,9 @@ elif [ $HOUR -ge 2 ] && [ $HOUR -lt 4 ]; then
 
       fi
 
-echo "/home/apollo-3/Pictures/bitday/bitday$NR.jpg"
-gsettings set org.gnome.desktop.background picture-uri "/home/apollo-3/Pictures/bitday/bitday$NR.jpg"
+echo "/home/apollo-3/Pictures/xxx/world-$NR.jpg"
+gsettings set org.gnome.desktop.background picture-uri "/home/apollo-3/Pictures/xxx/world-$NR.jpg"
+
+
+
+
